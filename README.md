@@ -24,7 +24,6 @@ Dans un projet plus MVVM, le ViewModel est important. Il garde une trace de son 
 - Écrans : 3 activités
 - Affichage d'une liste dans un ***RecyclerView***
 - Affichage du détail d'un item de la liste
-- ***Gitflow*** propre
 - ***Material Design*** propre
 
 ## Fonctions supplémentaires :
